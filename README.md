@@ -72,10 +72,3 @@ To identify the better-performing ad platform between Facebook and Google AdWord
 The analysis supports a **data-driven decision to prioritize Facebook Ads** for higher ROI, as it consistently outperformed Google AdWords in conversion efficiency.
 
 ---
-
-## 📁 Project Structure
-```
-├── AB Testing (Facebook Vs Adwords).ipynb
-├── data/                               # Raw dataset used for the project                               
-├── README.md                           # Project overview and instructions
-```
